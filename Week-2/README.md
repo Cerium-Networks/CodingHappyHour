@@ -1,4 +1,4 @@
-# Happy Hour - Week 1
+# Happy Hour - Week 2
 
 #### *Theme:* 
 File IO (CSV)
