@@ -1,4 +1,4 @@
-# Happy Hour - Week 2
+# Happy Hour - Week 3
 
 #### *Theme:* 
 Data Structures
