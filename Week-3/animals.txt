@@ -1,0 +1,13 @@
+horse
+cow
+pig
+dog
+cat
+cow
+rabbit
+pig
+pig
+cat
+rat
+hippo
+dog
