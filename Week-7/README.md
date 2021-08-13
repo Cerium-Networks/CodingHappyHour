@@ -4,11 +4,11 @@ This week we are working on graphing wildfire data for Wildlife Season!
 
 To start, download the `WildfiresByYear.csv` document.
 
-### Part 1
+## Part 1
 
 Load the data into Python (or your programming language of choice)
 
-### Part 2
+## Part 2
 
 Install/Import MatPlotLib 
 
